@@ -1,0 +1,10 @@
+.flaming-risk-highlight {
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+  }
+  
+  #flaming-risk-popover-container {
+    z-index: 9999;
+    position: relative;
+  }
